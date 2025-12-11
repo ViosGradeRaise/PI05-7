@@ -1,4 +1,4 @@
-public class PowerCalculator {
+public class Num2Powerxn {
 
     public static double power(double x, int n) {
         if (n == 0)
